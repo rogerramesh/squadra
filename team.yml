@@ -207,6 +207,15 @@ members:
             email: afarra@bu.edu
             routes:
                 -   contact@bostonhacks.io
+                
+   - name: Roger Ramesh
+        github:
+            username: rogerramesh
+            role: member
+        mailgun:
+            email: rmramesh@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
